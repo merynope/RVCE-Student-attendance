@@ -30,6 +30,3 @@ Contributions are welcome! Please submit bug reports, feature requests, or pull 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For inquiries or feedback, please contact [Your Name](mailto:your_email@example.com).
