@@ -10,17 +10,18 @@ This repository contains the code for a Face Recognition Based Attendance System
 - View attendance records with student names, dates, and times.
 - Secure password protection for sensitive operations.
 
-## Demo
-[Link to Live Demo](#)
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/your_username/face-recognition-attendance-system.git`
 2. Navigate to the project directory.
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run the application: `python attendance_system.py`
+3. Install dependencies: `pip install opencv-python-headless
+pip install numpy
+pip install pillow
+pip install pandas`
+4. Run the application: `python main.py`
 
 ## Usage
-1. Launch the application by running `attendance_system.py`.
+1. Launch the application by running `main.py`.
 2. Use the provided interface to register students, save profiles, and take attendance.
 3. Ensure proper lighting and camera placement for accurate facial recognition.
 4. View attendance records in the GUI or check the generated CSV files in the `Attendance` folder.
